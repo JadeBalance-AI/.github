@@ -10,7 +10,7 @@ There will be many funny talks on trending ⚡ technology ⚡. We are always new
 
 
 <div align="center">
-    <a ><img width="70%" height="auto" src="picture/logo1.png"></a>
+    <a href="https://github.com/JadeBalence-AI/.github/blob/master/profile/picture/logo1.png"><img width="70%" height="auto" src="https://github.com/JadeBalence-AI/.github/blob/master/profile/picture/logo1.png"></a>
 </br>
 </br>
 
