@@ -10,7 +10,7 @@ There will be many funny talks on trending ⚡ technology ⚡. We are always new
 
 
 <div align="center">
-    <a href="https://github.com/opendilab/PPOxFamily"><img width="70%" height="auto" src="picture/logo1.png"></a>
+    <a href="picture/logo1.png"><img width="70%" height="auto" src="picture/logo1.png"></a>
 </br>
 </br>
 
