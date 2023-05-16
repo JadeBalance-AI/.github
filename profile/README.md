@@ -12,8 +12,8 @@ There will be many funny talks on trending ⚡ technology ⚡. We are always new
 </br>
 </br>
 
-## Contact with us
-</br>
+## Contact with us 📧
+
 
 [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](panguoping02@gmail.com)
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](picture/wechat.jpg)
@@ -21,9 +21,9 @@ There will be many funny talks on trending ⚡ technology ⚡. We are always new
 </br>
 </br>
 
-## Flying Technology 
+## Flying Technology ✈
 
-</br>
+
 
 - 🚀 :
   [![Vue](https://img.shields.io/badge/Python-35495E?logo=Python&logoColor=4FC08D)]()
@@ -62,9 +62,9 @@ There will be many funny talks on trending ⚡ technology ⚡. We are always new
 </br>
 </br>
 
-## Github Stats  
+## Github Stats   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)]()
 
-</br>
+
 
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=all-smile&count_private=true&show_icons=true" height=145/></span>](https://home.i-xiao.space/blog/)
 
@@ -72,9 +72,9 @@ There will be many funny talks on trending ⚡ technology ⚡. We are always new
 </br>
 
 
-## Languages and Tools  
+## Languages and Tools  🔧
 
-</br>
+
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
