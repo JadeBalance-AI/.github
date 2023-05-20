@@ -97,7 +97,7 @@ Welcome to the ultimate Robotic & AI community for the true tech aficionados! ðŸ
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github.com/JadeBalance-AI/.github/blob/master/profile/picture/AIDog.png" align="center" style="width: 100%" />
+<img src="https://github.com/JadeBalance-AI/.github/blob/master/profile/picture/aidog2.png" align="center" style="width: 100%" />
 </div>  
 
 
