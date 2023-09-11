@@ -55,6 +55,7 @@ Welcome to the ultimate Robotic & AI community for the true tech aficionados! ðŸ
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](picture/wechat.jpg)
 
 <br/>  
+
 ## Flying Technology âœˆ  
 <table><tr><td valign="top" width="50%">
 
@@ -154,13 +155,13 @@ Welcome to the ultimate Robotic & AI community for the true tech aficionados! ðŸ
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=JadeBalance-AI&&style=flat-square)  
-  
+
 
 <br/>  
 
+![Profile views counter](https://komarev.com/ghpvc/?username=JadeBalance-AI&&style=flat-square)  
+  
 
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
